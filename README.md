@@ -27,11 +27,11 @@ This project demonstrates the use of custom data structures like a circular doub
    ```
 2. Compile using `g++`:
    ```bash
-   g++ -o InfixToPostfixEvaluationProgram main.cpp
+   g++ -o PostfixWithDeue main.cpp
    ```
 3. Run the program:
    ```bash
-   ./InfixToPostfixEvaluationProgram
+   ./PostfixWithDeque
    ```
 
 ## Usage
