@@ -27,7 +27,7 @@ This project demonstrates the use of custom data structures like a circular doub
    ```
 2. Compile using `g++`:
    ```bash
-   g++ -o PostfixWithDeue main.cpp
+   g++ -o PostfixWithDeque main.cpp
    ```
 3. Run the program:
    ```bash
