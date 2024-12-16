@@ -66,8 +66,5 @@ and the expression `(a+b)*c`, the program will:
 - Floating-point variable support for real-number calculations.
 - Extended operator support (e.g., exponentiation).
 
-## Contributing
-Feel free to fork this repository and contribute to the project by submitting pull requests.
-
 ## License
 This project is open-source and available under the MIT license.
